@@ -46,21 +46,57 @@ cd ENGR_0201
 
 ### Course Outline  
 
-#### Week 1: Foundations  
-1. **Introduction to Chatbots, AI Tools, and Measuring Accuracy**  
-2. **Organizing Notes and Syllabi**  
-3. **Finding and Integrating Resources**  
-4. **Generating Custom Study Tools**  
-5. **Collaborative Knowledge Hubs**  
 
-#### Week 2: Advanced Applications  
-6. **Advanced Search and Retrieval**  
-7. **Creating Presentations and Visuals**  
-8. **Collaborative Project Management**  
-9. **Ethics and Best Practices**  
-10. **Final Project Showcase**  
+**Week 1: Foundations**
+
+**Module 1: Prompting and Prompt Engineering**  
+- Learn to write effective prompts.
+
+**Module 2: Introduction to Chatbots, AI Tools, and Measuring Accuracy**  
+- Set up the knowledge hub framework.  
+- Establish output accuracy baselines.  
+- Choose the best models and tools for specific tasks.
+
+**Module 3: Organizing Notes and Syllabi**  
+- Summarize and structure academic materials for better access.  
+- Explore AI Notetakers for streamlined organization.
+
+**Module 4: Finding and Integrating Resources**  
+- Discover supplementary resources like online simulations and technical articles.  
+- Learn to combine data from multiple sources effectively.
+
+**Module 5: Generating Custom Study Tools**  
+- Create personalized guides, schedules, and problem-solving aids for exams and projects.  
+- Develop personal ChatGPT plug-ins for enhanced learning.
+
+**Module 6: Collaborative Knowledge Hubs**  
+- Build shared spaces for team projects.  
+- Incorporate version control for technical documents.
 
 ---
+
+**Week 2: Advanced Applications**
+
+**Module 7: Advanced Search and Retrieval**  
+- Optimize AI queries for targeted, context-specific technical information.  
+- Automate continual searches for literature reviews.
+
+**Module 8: Creating Presentations and Visuals**  
+- Use AI to generate infographics, flow diagrams, art, and other visuals.  
+- Create videos, sound assets, and publish formats like .epub, Kindle, and .mobi books.  
+- Design AI-assisted slide presentations.
+
+**Module 9: Collaborative Project Management**  
+- Streamline team workflows with AI-driven planning and tracking tools.  
+- Enhance task assignment and tracking with AI.
+
+**Module 10: Ethics and Best Practices**  
+- Explore privacy, plagiarism, and ethical considerations in AI usage.  
+- Learn best practices for responsible AI adoption in learning tasks.
+
+**Module 11: Final Project Showcase**  
+- Present polished tools tailored to learning applications.  
+- Receive portfolio feedback and refinement tips.
 
 ### License  
 
