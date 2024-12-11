@@ -2,7 +2,8 @@
 
 Google Scholar is a powerful tool for academic research, providing access to a vast repository of scholarly articles, theses, books, conference papers, and patents. Here's a step-by-step guide on how to use Google Scholar effectively:
 
----
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/d5dd3e8c3966a811671f4fc5d4ca7b17b11ccf19/ENGR_0201/umddofnwzoy.png?raw=true)
+
 
 ## **1. Accessing Google Scholar**
 - Open your web browser and navigate to [Google Scholar](https://scholar.google.com).
