@@ -1,4 +1,4 @@
-# Module 5: Generating Custom Study Tools
+# Module 5: Generating Custom Study Tools (e.g. Custom GPT)
 
 ## 1. Personalized Study Guide Creation
 
