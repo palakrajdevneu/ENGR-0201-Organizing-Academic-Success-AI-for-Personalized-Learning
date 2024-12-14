@@ -109,4 +109,4 @@ This assignment aims to familiarize students with various ChatBot design pattern
 --- 
 
 ### Deliverable:  
-Submit a written document (PDF or Word) with all required elements and be prepared to present in class.
+Submit a written document (Marksdown and either a Doc or Word) with all required elements and be prepared to present in class.
