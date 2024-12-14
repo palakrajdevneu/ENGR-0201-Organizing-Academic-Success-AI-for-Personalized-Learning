@@ -1,4 +1,4 @@
-# Module 4: Finding and Integrating Resources
+# Module 4: Finding and Integrating Resources (Doing Research with AI)
 
 ## 1. Advanced Resource Discovery
 
