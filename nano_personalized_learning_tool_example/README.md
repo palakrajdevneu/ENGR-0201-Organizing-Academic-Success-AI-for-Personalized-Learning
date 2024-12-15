@@ -3,11 +3,15 @@
 
   # NanoScope
 
-  > Supercharge your productivity without compromising on speed and privacy
-
+  > Supercharge your productivity without compromising on speed and privacy.
 
   Rewrite, enhance, perfect text instantly while you browse and rediscover your bookmarks - your AI assistant right on any tab in Chrome
 
+## Shoutout to Sagar Reddy
+
+A special shoutout to [Sagar Reddy](https://github.com/sagred) for creating the original [NanoScope](https://github.com/sagred/nano). His innovative work laid the groundwork for structured approaches to AI prompting, providing a foundation for crafting effective and nuanced prompts.
+
+[NanoScope Explaination YouTube](https://youtu.be/I5sKNz5oVhI)
 
   <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
