@@ -14,10 +14,18 @@ Notion is a versatile tool that can help you organize your academic and project 
 ## **2. Creating a New Workspace and Note Making**
 1. Click on **“New Page”** to start a blank workspace.
 2. Name the page (e.g., "Academic Notes" or "Project Hub").
+
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Notion_1.jpg)
+
 3. Hover on top of the tile and Use the **“+ Add Icon”** option to visually differentiate the page.
 4. Start making notes or hit the space bar to activate Notion AI.
 5. Accept or discard a given AI ans or insert below to add your notes .
-6. Hit the space bar againa nd click continue writing for the AI to continue generating an answer.
+
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Notion_2.jpg)
+
+6. Hit the space bar again and click continue writing for the AI to continue generating an answer.
+
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Notion_3.jpg)
 
 ---
 
@@ -31,6 +39,8 @@ Notion is a versatile tool that can help you organize your academic and project 
 2. **Use Templates for Consistency:**
    - Use Notion’s built-in templates or create your own for each category.
    - For example, a "Lecture Notes" template might include fields like **Topic**, **Date**, **Key Points**, and **Summary**.
+
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Notion_4.jpg)
 
 ---
 
@@ -54,9 +64,14 @@ Notion is a versatile tool that can help you organize your academic and project 
    - Highlight text and use Notion AI to summarize or expand upon it.
    - Use Notion AI prompts like **“Summarize this note”** or **“Highlight key points”**.
    - Write your own content and ask AI to improve writing.
+
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Notion_5.jpg)
+
 2. **Automate Organization:**
    - Use Notion AI to suggest tags or categorize notes based on content.
    - See image below for reference on how the highlighted text was categorized by Notion AI.
+
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Notion_6.jpg)
 
 ---
 
