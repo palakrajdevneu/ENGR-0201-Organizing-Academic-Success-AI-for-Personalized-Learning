@@ -87,6 +87,64 @@
 
 ---
 
-## **9. Reference**
+## **9. Advantages of Zotero**
+- Free and Open-Source:
+   - Zotero is free for personal use, making it accessible to students, researchers, and academics.
+   - Open-source development ensures continuous improvements and community-driven support.
+- Reference Management:
+   - Automatically generates citations and bibliographies in various formats (APA, MLA, Chicago, etc.).
+   - Supports plugins for Google Docs, Microsoft Word, and LibreOffice.
+- Wide Integration:
+   - Integrates with major browsers (Chrome, Firefox, Edge) via the Zotero Connector.
+   - Compatible with databases like Google Scholar, PubMed, and library catalogs.
+- File Organization:
+   - Lets you organize research with folders, tags, and sub-collections.
+   - Supports file storage, including PDFs, web pages, and images.
+- Syncing & Backup:
+   - Syncs data across devices using a Zotero account.
+   - Automatic cloud backup ensures data security and accessibility.
+- Collaboration Tools:
+   - Allows creating shared libraries for teams and research groups.
+   - Great for group projects and academic collaborations.
+- Customizable Workflows:
+   - Supports custom tags, notes, annotations, and metadata fields.
+   - Advanced search and filtering options help manage large libraries.
+
+---
+
+## **10. Disadvantages of Zotero**
+- Limited Storage in Free Plan:
+   - The free version includes only 300MB of cloud storage for file attachments.
+   - Paid storage plans are required for larger libraries.
+- Browser Dependency:
+   - Requires a browser extension (Zotero Connector) for capturing web content.
+   - Some browsers may experience compatibility issues.
+- Offline Limitations:
+   - Although it works offline, syncing and web-based features require internet access.
+- Citation Management Errors:
+   - Occasionally, automatically generated citations may have formatting issues.
+   - Manual corrections may be needed in complex reference lists.
+- Team Collaboration Complexity:
+   - Collaboration tools can be confusing for beginners due to permission settings and shared folders.
+
+---
+
+## **11. When to use Zotero**
+- Academic Research:
+   - For students, researchers, and academics managing multiple references for essays, theses, and research papers.
+- Long-Term Research Projects:
+   - Ideal for ongoing research projects that require extensive reference management and data organization.
+- Collaborative Projects:
+   - Suitable for group research projects and collaborative writing where team members share a common reference library.
+- Research Paper Writing:
+   - When working on journal articles, conference papers, or reports that require formal citations.
+- Content Curation and Review:
+   - Useful for professionals, journalists, and content creators who need to track sources and cite articles properly.
+- Organized Research Libraries:
+   - Best for organizing large research libraries with advanced tagging, custom notes, and metadata management.
+
+---
+
+## **12. Reference**
   - https://www.youtube.com/watch?v=JG7Uq_JFDzE
     
