@@ -1,6 +1,6 @@
 ### **AI Tools Introduced in This Course: A Quick Overview**  
 
-To help keep track of the tools covered, here’s a categorized summary of the AI tools, with links to explore further:  
+To help keep track of the tools covered, here’s a categorized summary of the AI tools, with links to explore further. Special mention for tools offered through NEU resources is included.
 
 ---
 
@@ -98,57 +98,61 @@ To help keep track of the tools covered, here’s a categorized summary of the A
    Automatically refines presentations into clean, professional slides.  
    - Learn more: [https://www.beautiful.ai](https://www.beautiful.ai)  
 
-22. **DeckRobot** - *AI PowerPoint Optimization*  
-   Polishes and improves PowerPoint slides automatically.  
-   - Learn more: [https://www.deckrobot.com](https://www.deckrobot.com)  
-
-23. **Simplified** - *All-in-One Content Creator*  
-   Create AI-driven slides, videos, and social media graphics.  
-   - Learn more: [https://simplified.com](https://simplified.com)  
-
 ---
 
 ### **5. Audio and Speech Tools**  
-24. **Descript** - *Edit Audio and Video by Editing Text*  
+22. **Descript** - *Edit Audio and Video by Editing Text*  
    Transcribes and edits podcasts, videos, and audio seamlessly.  
    - Learn more: [https://www.descript.com](https://www.descript.com)  
 
-25. **ElevenLabs** - *Realistic AI Voice Generation*  
+23. **ElevenLabs** - *Realistic AI Voice Generation*  
    Generate high-quality, natural-sounding voices for narration.  
    - Learn more: [https://elevenlabs.io](https://elevenlabs.io)  
 
-26. **Krisp.ai** - *Noise Cancellation Tool*  
+24. **Krisp.ai** - *Noise Cancellation Tool*  
    Removes background noise during calls for clarity.  
    - Learn more: [https://krisp.ai](https://krisp.ai)  
 
-27. **Murf.ai** - *AI Voiceovers for Ads and Videos*  
-   Create professional voiceovers for videos, ads, and presentations.  
-   - Learn more: [https://murf.ai](https://murf.ai)  
-
-28. **Speechify** - *AI Text-to-Speech Reader*  
-   Reads documents and websites aloud with natural voices.  
-   - Learn more: [https://speechify.com](https://speechify.com)  
-
 ---
 
-### **6. Data and Research Tools**  
-29. **Perplexity.ai** - *AI-Powered Search Engine*  
-   Provides answers to queries with detailed sources.  
+### **6. Data, Research, and Coding Tools**  
+25. **Perplexity.ai** - *AI-Powered Search Engine*  
+   A next-generation search tool that answers queries with sources.  
+   - **Free for NEU Students**: Access using your NEU email.  
    - Learn more: [https://www.perplexity.ai](https://www.perplexity.ai)  
 
-30. **Wolfram Alpha** - *AI for Calculations and Research*  
+26. **Wolfram Alpha** - *AI for Calculations and Research*  
    Solves mathematical, scientific, and computational problems.  
    - Learn more: [https://www.wolframalpha.com](https://www.wolframalpha.com)  
 
-31. **DataRobot** - *AI for Predictive Analytics*  
+27. **Hugging Face** - *AI Model Hub and Development*  
+   A platform to access, test, and deploy pre-trained AI models.  
+   - Learn more: [https://huggingface.co](https://huggingface.co)  
+
+28. **Gradio** - *AI Demo and Deployment Tool*  
+   Quickly build web interfaces to test and demo AI models.  
+   - Learn more: [https://gradio.app](https://gradio.app)  
+
+29. **DataRobot** - *AI for Predictive Analytics*  
    Automates machine learning workflows for data-driven insights.  
    - Learn more: [https://www.datarobot.com](https://www.datarobot.com)  
 
-32. **Scribe** - *Documenting Processes with AI*  
-   Creates step-by-step process guides from recorded actions.  
+30. **Replit AI** - *AI Coding Assistant*  
+   Assists with coding, debugging, and running scripts online.  
+   - Learn more: [https://replit.com](https://replit.com)  
+
+---
+
+### **7. Miscellaneous Tools**  
+31. **Scribe** - *Documenting Processes with AI*  
+   Creates step-by-step guides from recorded actions.  
    - Learn more: [https://scribehow.com](https://scribehow.com)  
 
-33. **Replit AI** - *AI-Powered Coding Assistant*  
-   Helps developers write, debug, and optimize code efficiently.  
-   - Learn more: [https://replit.com](https://replit.com)  
+32. **Runway** - *AI for Creative Media Editing*  
+   Simplifies tasks for filmmakers and artists with AI-driven tools.  
+   - Learn more: [https://runwayml.com](https://runwayml.com)  
+
+33. **Simplified** - *AI for Content and Design*  
+   Create presentations, social media posts, and videos efficiently.  
+   - Learn more: [https://simplified.com](https://simplified.com)  
 
