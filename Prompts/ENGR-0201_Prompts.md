@@ -1,6 +1,4 @@
-Certainly! Here's a **comprehensive list** of all the cleaned-up prompts, organized with **names** and corresponding **patterns**:
-
----
+# Prompt examples
 
 ### **1. Content Editor Assistant**  
 **Pattern**: Persona Pattern  
