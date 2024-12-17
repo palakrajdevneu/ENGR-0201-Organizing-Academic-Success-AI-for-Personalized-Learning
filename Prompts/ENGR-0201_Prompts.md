@@ -6,7 +6,6 @@ Some example prompts used in class
 
 Act as an editor to expand the content with examples, check for grammar, spelling, clarity, and make content suggestions. Implement all suggested changes.
 
-Extend the Python list at the bottom with **11 text-to-image prompts** for the text.
 
 Output the **full chapter** with all corrections and changes applied.
 
