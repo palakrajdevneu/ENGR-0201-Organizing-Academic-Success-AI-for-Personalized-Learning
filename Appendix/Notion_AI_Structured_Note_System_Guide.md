@@ -56,7 +56,6 @@ Notion is a versatile tool that can help you organize your academic and project 
      - Due Dates
      - Authors or Instructors
      - Related Topics
-
 ---
 
 ## **5. Leveraging Notion AI**
@@ -110,4 +109,33 @@ Notion is a versatile tool that can help you organize your academic and project 
 - **Stay Organized:** Keep a consistent format across all notes.
 - **Explore Integrations:** Connect Notion with external tools like Google Calendar or Slack.
 
-By following these steps, you can create a highly organized and efficient note-taking system in Notion, leveraging AI-powered features to maximize productivity.
+---
+
+## **10. Advantages of using Notion AI**
+- Automation:
+   - Notion AI helps automate repetitive tasks like summarizing content, generating ideas, and expanding notes.
+   - It can speed up content creation, making brainstorming and research more efficient.
+- Organization:
+   - With features like built-in templates, tags, and metadata, Notion helps structure information intuitively.
+   - Personalized databases, task boards, calendars, and notes can be created—all in one place.
+- Collaboration:
+   - Workspaces can be shared with team members, enabling real-time collaboration and simultaneous editing.
+   - Permissions management allows for role-based access (view/edit/admin).
+- Customization:
+   - Everything in Notion can be tailored to fit personal or team workflows.
+   - Custom properties, relational databases, and nested pages offer limitless customization.
+- Cross-Platform Availability:
+   - Notion works on multiple platforms, including web, desktop, and mobile apps, ensuring data is always accessible.
+   - Real-time syncing keeps data consistent across devices.
+
+---
+
+## **11. Disadvantages of Notion AI**
+- Limited Offline Access:
+   - Notion requires an internet connection for most features.
+   - Offline mode is limited and only works on specific platforms with preloaded data.
+- AI Limitations:
+   - Like any other AI, while helpful, Notion AI's generated responses might be contextually inaccurate or too generic.
+   - Users must manually review, edit, and refine AI-generated content to ensure quality and relevance.
+- Pricing:
+   - While the free version is generous, advanced features like team collaboration, admin permissions, and extra storage require a paid subscription.
