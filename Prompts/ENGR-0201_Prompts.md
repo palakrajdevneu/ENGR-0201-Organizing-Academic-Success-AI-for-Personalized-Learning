@@ -206,9 +206,6 @@
 **Prompt Name**: "History Insight Specialist"  
 > *Research and explain historical contexts, events, and their impacts in an accessible manner.*
 
-### **New Prompts Added**
-
----
 
 ### **31. Act as a Novelist**  
 **Pattern**: Persona Pattern  
@@ -334,8 +331,6 @@
 **Prompt Name**: "Animal Behavior Consultant"  
 > *I want you to act as a pet behaviorist. My first request is "I have an aggressive German Shepherd who needs help managing its aggression."*
 
-Here are the newly added prompts organized clearly:
-
 ---
 
 ### **49. Act as an AI Assisted Doctor**  
@@ -454,9 +449,6 @@ Here are the newly added prompts organized clearly:
 **Pattern**: Content Naming Pattern  
 **Prompt Name**: "Title Creator"  
 > *I want you to act as a fancy title generator. I will provide keywords, and you will reply with creative and compelling titles. My first keywords are “API, test, automation.”*
-
-
-Here are the newly added prompts, clearly structured and ready for your use:
 
 ---
 
@@ -611,10 +603,6 @@ Here are the newly added prompts, clearly structured and ready for your use:
 **Pattern**: Practical Instruction Pattern  
 **Prompt Name**: "Home Improvement Guide"  
 > *I want you to guide DIY projects with easy instructions and creative solutions. My first project is "creating an outdoor seating area for entertaining guests."*
-
----
-
-Here is the cleaned-up, formatted list of prompts starting from **88** with numbering, names, and patterns applied consistently:
 
 ---
 
@@ -877,9 +865,6 @@ Here is the **formatted and numbered continuation** of the prompts starting from
 **Prompt Name**: "Daily Growth Mentor"  
 > *Summarize non-fiction books, simplify principles for children, and provide actionable steps. My first book is *Atomic Habits* by James Clear.*
 
-
-Here is the **formatted continuation** starting from **125** with prompt names, patterns, and concise rewrites:
-
 ---
 
 ### **125. Act as a Speech-Language Pathologist (SLP)**  
@@ -1019,8 +1004,6 @@ Here is the **formatted continuation** starting from **125** with prompt names, 
 **Pattern**: Game Play Pattern  
 **Prompt Name**: "Kanji Quiz Master"  
 > *Ask me random JLPT N5 kanji meanings with four options (A-D). Evaluate my answer and congratulate or correct me. Start with the first kanji.*
-
-Here is the **continuation with formatting** and **22 additional examples** following the requested structure:
 
 ---
 
@@ -1189,8 +1172,6 @@ Here is the **continuation with formatting** and **22 additional examples** foll
 **Pattern**: Meta Language Creation Pattern  
 **Prompt Name**: "Custom Myth Maker"  
 > *Create myths, legends, and symbolic stories based on user-provided themes. My first request is: “Write a myth about the origin of the northern lights.”*
-
-Here are **32 new examples** of prompts, maintaining variety, uniqueness, and fitting different **patterns** for interactivity, creativity, and practical usage. Each follows the formatting guidelines provided earlier.
 
 ---
 
@@ -1416,12 +1397,7 @@ Here are **32 new examples** of prompts, maintaining variety, uniqueness, and fi
 **Prompt Name**: "Mysterious Story Creator"  
 > *Generate engaging crime thriller plots with twists, suspects, and motives. My first request is: “Create a murder mystery plot set in a remote cabin.”*
 
-
-I'll continue with the complete list, extending the artifact.
-
-
-
-
+---
 
 ### **201. Act as a Board Game Designer**
 **Pattern**: Meta Language Creation Pattern
@@ -1856,11 +1832,6 @@ I'll continue with the complete list, extending the artifact.
 > *Transform personal experiences into mythological narratives. My first request is: "Create a myth from my career journey."*
 
 ---
-I'll continue the list with examples 263-317, maintaining the same format and style.
-
-
-
-
 
 ### **263. Act as a Sacred Dance Choreographer**
 **Pattern**: Creative Content Pattern
@@ -2244,9 +2215,4 @@ I'll continue the list with examples 263-317, maintaining the same format and st
 **Pattern**: Persona Pattern
 **Prompt Name**: "Cyclical Time Guide"
 > *Guide practices for working with sacred time. My first request is: "Create a sacred daily schedule template."*
-
-
-I've completed the extension with examples 263-317, maintaining consistency in format and style while introducing new variations on spiritual and personal development themes. Would you like me to focus on any particular category for additional examples?
-
-
 
