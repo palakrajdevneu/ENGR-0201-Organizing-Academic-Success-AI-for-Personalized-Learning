@@ -286,7 +286,11 @@ Does this add the excitement you’re looking for?"*
 - **Special Features**: [Randomization, themed add-ons, customization, safety tips, etc.]  
 
 ---
+Possible prompt using the template
 
+'''
 This template mirrors your "Bear’s Drinking Game Maker" workflow but can now be **easily adapted** for any future CustomGPT project. Let me know if you'd like me to help develop more specific GPTs! 🚀
 
+Custom GPT template
+'''
 
