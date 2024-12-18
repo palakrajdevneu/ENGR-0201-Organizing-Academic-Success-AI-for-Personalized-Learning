@@ -200,3 +200,72 @@ Bear’s Math 2 Latex simplifies the conversion of mathematical content into LaT
 
 **Your math, made bear-y easy!** 🐻
 
+The image contains several mathematical expressions, including calculus, set theory, and summation notation. Here's the breakdown with corresponding LaTeX code:
+
+### An example
+
+### LaTeX Code:
+
+```latex
+\documentclass{article}
+\usepackage{amsmath, amssymb}
+
+\begin{document}
+
+% Equation 1: There exists a y in X
+\[
+\exists y \in X
+\]
+
+% Equation 2: Series summation
+\[
+\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}
+\]
+
+% Equation 3: Set operation (Union and Intersection complement)
+\[
+(A \cup B)^c = A^c \cap B^c
+\]
+
+% Equation 4: Vector calculus (Surface integral)
+\[
+\oint_{\partial \Omega} \mathbf{A} \cdot d\mathbf{s} = \iint_{\Omega} \nabla \times \mathbf{A} \cdot d\mathbf{n}
+\]
+
+% Equation 5: Binomial coefficient formula
+\[
+\binom{n}{r} + \binom{n}{r-1} = \binom{n+1}{r}
+\]
+
+% Equation 6: Pythagorean theorem
+\[
+a^2 + b^2 = c^2
+\]
+
+% Equation 7: Limit expression
+\[
+\lim_{x \to \infty} \left(\frac{x_1 + x_2 + \cdots + x_m}{m}\right) < \frac{1}{k}
+\]
+
+% Equation 8: Double intersection notation
+\[
+\bigcap_{n=1}^{\infty} \bigcup_{k=1}^{\infty}
+\]
+
+\end{document}
+```
+
+---
+
+### Key Symbols in the Image:
+1. **Existential Quantifier**: \( \exists y \in X \)
+2. **Summation**: \( \sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6} \)
+3. **Set Complement Law**: \( (A \cup B)^c = A^c \cap B^c \)
+4. **Surface Integral (Stokes' Theorem)**: \( \oint_{\partial \Omega} \mathbf{A} \cdot d\mathbf{s} = \iint_{\Omega} \nabla \times \mathbf{A} \cdot d\mathbf{n} \)
+5. **Binomial Coefficients**: \( \binom{n}{r} + \binom{n}{r-1} = \binom{n+1}{r} \)
+6. **Pythagorean Theorem**: \( a^2 + b^2 = c^2 \)
+7. **Limits and Averages**: Expression involving \( \lim \)
+8. **Intersection and Union Notations**: \( \bigcap_{n=1}^{\infty} \bigcup_{k=1}^{\infty} \)
+
+
+
