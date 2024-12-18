@@ -289,8 +289,6 @@ Does this add the excitement you’re looking for?"*
 Possible prompt using the template
 
 '''
-This template mirrors your "Bear’s Drinking Game Maker" workflow but can now be **easily adapted** for any future CustomGPT project. Let me know if you'd like me to help develop more specific GPTs! 🚀
-
-Custom GPT template
+Using the Custom GPT template Write series of prompts to implement the requirements below and have it match the Custom GPT template closely. It should be less than 8000 characters in text that can be pasted into a CustomGPT
 '''
 
