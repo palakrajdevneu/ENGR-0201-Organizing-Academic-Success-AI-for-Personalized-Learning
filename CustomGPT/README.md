@@ -127,7 +127,7 @@ Examples include:
 ---
 
 ### **Key Notes**
-- Teams must choose **one specific use case** from the GitHub repository.  
+- Teams must choose **one specific use case**.  
 - Implementation in ChatGPT Pro is optional but encouraged if access is available.  
 - Focus on creativity, clarity, and alignment with the selected use case.  
 - Collaboration and testing are critical for achieving a high-quality submission.  
