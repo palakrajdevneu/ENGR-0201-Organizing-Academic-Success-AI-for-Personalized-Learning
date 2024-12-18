@@ -134,3 +134,89 @@ Examples include:
 
 **Unleash your creativity and technical skills with your CustomGPT project!** 🚀🐻
 
+CustomGPTs can support various file types to process data, depending on the specific implementation of the model and its tools. Generally, the following file types are supported for **input and processing**:
+
+---
+
+### 1. **Text-based Files**
+   - **TXT**: Plain text files.
+   - **CSV**: Comma-separated values for structured data.
+   - **JSON**: JavaScript Object Notation files for data interchange.
+   - **XML**: Extensible Markup Language for hierarchical data.
+   - **MD**: Markdown files for formatted text.
+
+---
+
+### 2. **Document Files**
+   - **DOCX**: Microsoft Word files.
+   - **PDF**: Portable Document Format for text and image-based documents.
+   - **RTF**: Rich Text Format for cross-platform documents.
+
+---
+
+### 3. **Spreadsheet Files**
+   - **XLSX**: Microsoft Excel spreadsheets.
+   - **ODS**: OpenDocument Spreadsheet files.
+   - **XLS**: Legacy Excel format.
+
+---
+
+### 4. **Image Files**
+   - **JPG / JPEG**: Common compressed image formats.
+   - **PNG**: Lossless image format with transparency support.
+   - **GIF**: Animated or static images.
+   - **TIFF**: High-quality images often used for archiving.
+   - **SVG**: Scalable Vector Graphics for graphics or diagrams.
+
+---
+
+### 5. **Code and Programming Files**
+   - **PY**: Python scripts.
+   - **HTML**: Hypertext Markup Language.
+   - **CSS**: Cascading Style Sheets for styling.
+   - **JS**: JavaScript files for web applications.
+   - **JSON**: Configuration files.
+   - **YAML**: Human-readable structured data format.
+   - **IPYNB**: Jupyter Notebook files.
+
+---
+
+### 6. **Audio Files**
+   - **MP3**: Compressed audio files.
+   - **WAV**: High-quality uncompressed audio.
+   - **M4A**: Compressed audio format.
+
+---
+
+### 7. **Video Files**
+   - **MP4**: Common compressed video format.
+   - **MOV**: Apple QuickTime videos.
+   - **AVI**: Older video format with varying compression.
+   - **WEBM**: Modern, open-source video format.
+
+---
+
+### 8. **Compressed Files**
+   - **ZIP**: Compressed archive format.
+   - **TAR.GZ / TGZ**: Linux-compatible compressed archives.
+
+---
+
+### 9. **Specialized Files**
+   - **LaTeX Files**: `.tex` for academic and scientific documents.
+   - **LOG**: Log files for debugging.
+   - **DAT**: Raw data files.
+
+---
+
+### Key Notes:
+- **Processing capabilities**: The types of files you can upload depend on the tools integrated into your CustomGPT. For instance:
+   - **CSV, JSON**: Can be processed for data analysis.
+   - **PDF, DOCX**: Can be parsed to extract text content.
+   - **IPYNB**: Can be executed or analyzed for Python workflows.
+   - **Audio and video files**: Often require additional tools for transcription or summarization.
+
+- **Limitations**: Certain proprietary or binary formats (like encrypted PDFs) may not be fully compatible unless additional tools are configured.
+
+If you have a specific use case or file type in mind, let me know, and I can suggest ways to integrate it!
+
