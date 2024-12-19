@@ -15,7 +15,7 @@ Learn and test Canva's AI-powered features for creating professional graphics, p
   - Free plans offer basic features.
   - Pro/Teams plans include advanced AI tools like Magic Design, Magic Write, and Background Remover.
     
-
+https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_10.png
 
 ### **2. Explore AI-Powered Features**
 #### **Magic Design**
