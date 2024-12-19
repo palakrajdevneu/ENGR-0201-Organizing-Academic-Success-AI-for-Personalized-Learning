@@ -72,13 +72,22 @@ Gamma AI’s real-time editing features allow for seamless collaboration. Whethe
 - Select **"Generate Webpage."**
 - Enter your preferred style and content details.
 - Use AI suggestions to enhance visuals and structure.
-  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Gamma_7.jpg)
+
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Gamma_8.jpg)
+
 
 ### **5. Generate a Document**
 - Choose **"Generate Document."**
 - Provide a brief description of your desired output (e.g., blog, report, or article).
-- Edit the AI-generated content to meet your needs.
-  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
+- Edit the AI-generated content to meet your needs
+ ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Gamma_9.jpg)
+
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Gamma_10.jpg)
+
+**"List of Templates"** 
+
+ ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Gamma_11.jpg)
 
 ---
 
