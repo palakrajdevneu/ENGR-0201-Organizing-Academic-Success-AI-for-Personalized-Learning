@@ -2,7 +2,7 @@
 
 ComfiUI is a powerful and intuitive interface for managing and interacting with machine learning models. When integrated with Hugging Face, it provides a seamless way to utilize pre-trained models, fine-tune custom models, and deploy them effectively. Follow this guide to set up and use ComfiUI with Hugging Face for your projects.
 
-## ** 1.Setting up ComfiUI [Windows] **
+## 1.Setting up ComfiUI [Windows] 
 
 - Download ComfiUI:
 Visit the [ComfiUI GitHub repository](https://github.com/comfyanonymous/ComfyUI) to download the latest version.
@@ -46,7 +46,7 @@ you just have to upload the downloaded model to checkpoints folder in models of 
 
 
 
-## ** 2. Install ComfiUI Manager **
+##  2. Install ComfiUI Manager 
 
 - Download ComfiUI Manager:
 Visit the [ComfiUI Manager GitHub repository](https://github.com/ltdrdata/ComfyUI-Manager) to download the latest version.
@@ -64,7 +64,7 @@ Visit the [ComfiUI Manager GitHub repository](https://github.com/ltdrdata/ComfyU
 - After downloading run the batch file to install the manager. Now you can see the manager in your ComfiUI interface.
 
 
-## ** 3. Integrating Hugging Face with ComfiUI **
+## 3. Integrating Hugging Face with ComfiUI 
 
 Step 1: Install Hugging Face Transformers 
 - Ensure you have the Hugging Face Transformers library installed:
