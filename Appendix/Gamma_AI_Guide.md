@@ -49,18 +49,24 @@ Gamma AI’s real-time editing features allow for seamless collaboration. Whethe
 ### **1. Login to Gamma AI**
 - Visit the [Gamma AI homepage](https://www.gamma.com).
 - Log in with your credentials or create a new account.
-  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Gamma_2.jpg)
 
 ### **2. Navigate to the AI Page**
 - After logging in, access the “Generate with AI” section.
 - This is the hub for all content creation tools.
-  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Gamma_3.jpg)
 
 ### **3. Generate a Presentation**
 - Click **"Generate Presentation."**
 - Input your topic or content outline.
 - Customize the design, animations, and layout as needed.
-  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Gamma_4.jpg)
+
+**"Pick a Theme"**
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Gamma_5.jpg)
+
+
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Gamma_6.jpg)
 
 ### **4. Generate a Webpage**
 - Select **"Generate Webpage."**
