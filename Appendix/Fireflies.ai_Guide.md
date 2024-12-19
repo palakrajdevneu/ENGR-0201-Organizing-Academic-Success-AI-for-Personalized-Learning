@@ -115,9 +115,12 @@ Fireflies.ai adapts to a wide variety of use cases, making it an essential tool 
    - Click the "Share" button and choose one of the following:
      - Enter email addresses to send the transcript directly to collaborators.
      - Generate a shareable link to provide access.
+   
    -![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Fireflies.ai-9.png) 
 
+
 ---
+
 
 By following these steps, you can maximize your productivity with Fireflies.ai, ensuring seamless documentation and enhanced collaboration in your meetings.
 
