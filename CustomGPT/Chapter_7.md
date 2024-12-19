@@ -1,4 +1,4 @@
-# GPT-based PPT Generator
+# Bear's GPT-based PPT Generator
 ---
 
 #### **System Prompt**
