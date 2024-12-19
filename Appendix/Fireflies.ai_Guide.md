@@ -73,7 +73,7 @@ Fireflies.ai adapts to a wide variety of use cases, making it an essential tool 
 1. **Create an Account:**
    - Visit [Fireflies.ai](https://fireflies.ai) and sign up using your email or Google account.
    - Follow the onboarding process to complete your setup.
-   - ![alt text](Fireflies.ai-1.png)
+   - ![alt text](ENGR_0201/Fireflies_ai-1.png-1.png)
 
 2. **Connect Fireflies.ai with Meeting Platforms:**
    - Link Fireflies.ai with platforms like Zoom, Google Meet, or Microsoft Teams.
