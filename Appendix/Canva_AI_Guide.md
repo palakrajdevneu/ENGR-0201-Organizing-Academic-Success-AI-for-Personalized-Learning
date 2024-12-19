@@ -142,6 +142,6 @@ Learn and test Canva's AI-powered features for creating professional graphics, p
 ---
 
 ## **Conclusion**
-By following this lab, you explored Canva's AI-enhanced features, such as Magic Design, Magic Write, and Text to Image, gaining hands-on experience in creating professional designs. These tools simplify the design process, enabling you to focus on creativity while leveraging automation for efficiency. With this knowledge, you can enhance your workflow and create visually appealing projects with ease. Keep experimenting with the features to unlock Canva's full potential!
+By following this article, you explored Canva's AI-enhanced features, such as Magic Design, Magic Write, and Text to Image, gaining hands-on experience in creating professional designs. These tools simplify the design process, enabling you to focus on creativity while leveraging automation for efficiency. With this knowledge, you can enhance your workflow and create visually appealing projects with ease. Keep experimenting with the features to unlock Canva's full potential!
 
-By completing this lab, you'll understand how Canva's AI-enhanced tools can improve your workflow and creativity.
+By completing these steps, you'll understand how Canva's AI-enhanced tools can improve your workflow and creativity.
