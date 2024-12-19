@@ -41,7 +41,7 @@ Gamma AI’s real-time editing features allow for seamless collaboration. Whethe
 - **Education**: Design lesson plans, research papers, or interactive study guides.
 - **Personal**: Build portfolios, personal blogs, or resumes.
 - **Events**: Generate invites, schedules, and event webpages.
-
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Gamma_1.jpg)
 ---
 
 ## **How to Use Gamma AI**
@@ -49,25 +49,30 @@ Gamma AI’s real-time editing features allow for seamless collaboration. Whethe
 ### **1. Login to Gamma AI**
 - Visit the [Gamma AI homepage](https://www.gamma.com).
 - Log in with your credentials or create a new account.
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
 
 ### **2. Navigate to the AI Page**
 - After logging in, access the “Generate with AI” section.
 - This is the hub for all content creation tools.
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
 
 ### **3. Generate a Presentation**
 - Click **"Generate Presentation."**
 - Input your topic or content outline.
 - Customize the design, animations, and layout as needed.
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
 
 ### **4. Generate a Webpage**
 - Select **"Generate Webpage."**
 - Enter your preferred style and content details.
 - Use AI suggestions to enhance visuals and structure.
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
 
 ### **5. Generate a Document**
 - Choose **"Generate Document."**
 - Provide a brief description of your desired output (e.g., blog, report, or article).
 - Edit the AI-generated content to meet your needs.
+  ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/canva_1.png)
 
 ---
 
