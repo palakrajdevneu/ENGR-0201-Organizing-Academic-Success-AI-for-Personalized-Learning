@@ -1,7 +1,7 @@
 
 # Artbreeder – Collaborative AI-Generated Art
 
-![alt text](artbreeder.png)
+![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/artbreeder.png)
 
 **Introduction:**
 Artbreeder is an innovative AI-powered platform that empowers users to generate, blend, and customize images effortlessly. From portraits to landscapes and abstract art, Artbreeder offers a unique blend of creativity and collaboration. Its intuitive interface and advanced AI capabilities make it accessible to artists, designers, and enthusiasts alike.
@@ -65,23 +65,23 @@ Artbreeder caters to:
 
 ### Getting Started:
 1. Visit [Artbreeder](https://www.artbreeder.com) and create an account.
-   - ![alt text](artbreeder-1.png)
-   - ![alt text](artbreeder-2.png)
+   - ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/artbreeder-1.png)
+   - ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/artbreeder-2.png)
 2. Browse the community gallery for inspiration or select a style to start with.
-   - ![alt text](artbreeder-4.png)
+   - ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/artbreeder-4.png)
 3. Begin creating or customizing an image.
-   -![alt text](artbreeder-3.png)
+   -![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/artbreeder-3.png)
 
 ### Customizing Images:
 1. Use sliders to adjust attributes like style, color, and shape.
 2. Blend multiple images for unique results.
-   - ![alt text](artbreeder-5.png)
+   - ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/artbreeder-5.png)
 3. Save your progress for future refinement.
 
 ### Sharing and Downloading:
 1. Share your creations with the Artbreeder community.
 2. Download images in standard resolution for free or high resolution with a paid plan.
-   - ![alt text](artbreeder-6.png)
+   - ![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/artbreeder-6.png)
  - 
 
 ---
