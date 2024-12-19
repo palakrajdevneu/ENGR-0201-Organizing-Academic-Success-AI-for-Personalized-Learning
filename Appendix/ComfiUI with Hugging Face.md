@@ -49,9 +49,18 @@ you just have to upload the downloaded model to checkpoints folder in models of 
 ## ** 2. Install ComfiUI Manager **
 
 - Download ComfiUI Manager:
-Visit the [ComfiUI GitHub repository](https://github.com/comfyanonymous/ComfiUI-Manager) to download the latest version.
+Visit the [ComfiUI Manager GitHub repository](https://github.com/ltdrdata/ComfyUI-Manager) to download the latest version.
+
+- Install git and run the setup
+
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/ComfiUI_10.png)
+
 
 - Right Click on link to download the zip file to your ComfiUI folder.
+  
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/ComfiUI_11.png)
+
+
 - After downloading run the batch file to install the manager. Now you can see the manager in your ComfiUI interface.
 
 
@@ -60,12 +69,15 @@ Visit the [ComfiUI GitHub repository](https://github.com/comfyanonymous/ComfiUI-
 Step 1: Install Hugging Face Transformers 
 - Ensure you have the Hugging Face Transformers library installed:
 
+
 Step 2: Connect Hugging Face Account
 - If don't have a Hugging Face account, go to Hugging Face and create an account.
 -Then, Generate an API Token:
 Navigate to your account settings and generate a personal access token.
 
+
 Step 3: Open ComfiUI Manager 
+
 - Click on the ComfiUI Manager icon in your interface and then click on the install custom model button.
 
 ![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/ComfiUI_7.png)
