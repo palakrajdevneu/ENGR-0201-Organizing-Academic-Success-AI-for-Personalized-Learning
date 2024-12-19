@@ -17,7 +17,7 @@ Perplexity.ai is a next-generation search tool that answers queries concisely wh
 ### **Step 1: Accessing Perplexity.ai**
 1. Visit the website: [Perplexity.ai](https://www.perplexity.ai).
 2. **Sign Up or Sign In** (Optional): Create an account to save searches and personalize settings.
-    After Signing in you can either go for a Free or Paid Plan. If you signup using Northeastern Email ID
+    After Signing in you can either go for a Free or Paid Plan. If you signup using **Northeastern Email ID**
     you can access the Pro features for free for 1 year.
    ![image](https://github.com/user-attachments/assets/60874237-5fc2-413e-9d9b-d1913ed01d6b)
 
