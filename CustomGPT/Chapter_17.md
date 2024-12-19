@@ -1,4 +1,4 @@
-# Bear’s Midjourney Muse | Custom GPT Prompt Series
+# Bear’s Midjourney Muse
 
 
 #### **System Prompt**
