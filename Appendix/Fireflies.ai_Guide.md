@@ -1,6 +1,6 @@
 # Fireflies.ai: The Ultimate Guide to Smarter Meetings with AI
 
-![alt text](ENGR_0201/Fireflies.ai.png)
+![alt text](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Fireflies.ai.png)
 
 
 ## Introduction
