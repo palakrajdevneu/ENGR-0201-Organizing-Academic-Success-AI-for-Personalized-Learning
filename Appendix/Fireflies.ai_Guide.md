@@ -1,6 +1,6 @@
 # Fireflies.ai: The Ultimate Guide to Smarter Meetings with AI
 
-![alt text](image.png)
+![alt text](Fireflies.ai.png)
 
 
 ## Introduction
@@ -73,16 +73,16 @@ Fireflies.ai adapts to a wide variety of use cases, making it an essential tool 
 1. **Create an Account:**
    - Visit [Fireflies.ai](https://fireflies.ai) and sign up using your email or Google account.
    - Follow the onboarding process to complete your setup.
-   - ![alt text](image-1.png)
+   - ![alt text](Fireflies.ai-1.png)
 
 2. **Connect Fireflies.ai with Meeting Platforms:**
    - Link Fireflies.ai with platforms like Zoom, Google Meet, or Microsoft Teams.
    - Navigate to the "Integrations" section on the dashboard to enable these connections.
-   - ![alt text](image-2.png)
+   - ![alt text](Fireflies.ai-2.png)
 
 3. **Set Up Meeting Preferences:**
    - Go to the "Settings" tab.
-   - ![alt text](image-3.png)
+   - ![alt text](Fireflies.ai-3.png)
    - Configure auto-recording, transcription settings, and notification preferences.
 
 ---
@@ -90,8 +90,8 @@ Fireflies.ai adapts to a wide variety of use cases, making it an essential tool 
 
 1. **Invite Fireflies.ai Bot to Meetings:**
    - Share the Fireflies.ai bot’s unique invite link during the meeting scheduling process.
-   - ![alt text](image-4.png)
-   - ![alt text](image-5.png)
+   - ![alt text](Fireflies.ai-4.png)
+   - ![alt text](Fireflies.ai-5.png)
    - Alternatively, enable the auto-join feature to let Fireflies.ai join meetings automatically.
 
 ### Accessing Transcripts
@@ -101,10 +101,10 @@ Fireflies.ai adapts to a wide variety of use cases, making it an essential tool 
 
 2. **Navigate to the "Meetings" Tab:**
    - View a chronological list of all your recorded meetings.
-   - ![alt text](image-6.png)
+   - ![alt text](Fireflies.ai-6.png)
    - Click on a specific meeting to open its transcript.
-   - ![alt text](image-8.png)
-   - ![alt text](image-7.png)
+   - ![alt text](Fireflies.ai-8.png)
+   - ![alt text](Fireflies.ai-7.png)
 
 ---
 
@@ -115,7 +115,7 @@ Fireflies.ai adapts to a wide variety of use cases, making it an essential tool 
    - Click the "Share" button and choose one of the following:
      - Enter email addresses to send the transcript directly to collaborators.
      - Generate a shareable link to provide access.
-   -![alt text](image-9.png) 
+   -![alt text](Fireflies.ai-9.png) 
 
 ---
 
